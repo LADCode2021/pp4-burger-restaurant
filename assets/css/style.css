@@ -1,3 +1,5 @@
+
+/* Header styling */
 .jumbotron {
     background-image: url('../images/burger-banner.jpg');
     background-size: cover;
@@ -6,3 +8,12 @@
     margin: 0;
 }
 
+/* margins, padding, alignments */
+
+main {
+    margin-top: 20px;
+}
+
+.center-text {
+    text-align: center;
+}
