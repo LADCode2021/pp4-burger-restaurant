@@ -1,0 +1,6 @@
+.jumbotron {
+    background-image: url('../images/burger-banner.jpg');
+    background-size: cover;
+    background-position: 100% 50%;
+    height: 400px;
+}
